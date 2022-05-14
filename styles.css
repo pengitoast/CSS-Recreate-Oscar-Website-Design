@@ -1,0 +1,38 @@
+:root {
+    --blue1: #4161cc;
+}
+body {
+    background-color: var(--blue1);
+}
+.topNavContainer {
+    margin: auto;
+    padding: 1em;
+    display: flex;
+}
+.topNavMenu {
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    text-decoration: none;
+    list-style-type: none;
+}
+.mainNavContainer {
+    margin: auto;
+    padding: 1em;
+    display: flex;
+}
+.mainNav {
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+}
+.oscar {
+    
+}
+.findDoc {
+
+}
